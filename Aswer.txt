@@ -1,0 +1,25 @@
+PW Skills - Assignment - 02 - 22 Jan 
+
+1. What is a Computer?
+Ans: A computer is a processing device which accept's information based on the instruction written in program by the programmer and execute them.
+
+2. What is RAM?
+Ans: The full form of RAM is random access memory. It is a volatile memory which loads the program or instruction's from Hard disk and passes it to the computer.
+
+3. Where is data stored in a computer?
+Ans: The data stored in non-volatile memory of computer i.e Hard disk/ SSD.
+
+4. What is that input device used to type text and numbers on a document in the computer system?
+Ans: The input device which is used to type text and numbers on a document in the computer system is - Keyboard. It contain's key's and every keys contains the each letter and number's and when a key is pressed it passes the information to the computer.
+
+5. What are the output devices?
+Ans: The device's which are used to get desired result's of different type from the computer are called output device. Example's are Printer - to print (hard copy) the data, Speaker - to get the audio results(output) and Monitor - to display the output, etc.
+
+6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans: The input device that allows a user to move the cursor or pointer on the screen is - Mouse (Trackpad in case of Laptop).
+
+7. Which language is directly understood by the computer without a translation program?
+Ans: Language is directly understood by the computer without a translation program is - Assembly language. It is the Low Level programming language.
+
+8. What are Input devices?
+Ans: The device which are used to give input's to the device; example Keyboard - to give alphabet and number as a input, Mouse - to move or to click the cursor, Camera - to receive(get) image/video input etc.
